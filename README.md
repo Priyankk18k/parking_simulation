@@ -17,9 +17,11 @@ pip install -r requirements.txt
 NOTE :- In the code I have not used any external libraries so ```requirements.txt``` will be empty.  All the dependencies and In-built libraries will be auto installed with python.
 
 4 - Run the Code with the command
-```
+``` 
 python parking_main.py --in <your input file name with .txt extension>
 ```
+
+Example :- ```python parking_main.py --in input.txt```
 
 
 
