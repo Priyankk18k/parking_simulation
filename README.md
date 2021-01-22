@@ -4,7 +4,7 @@
 
 1 - Clone the Repositery 
 ```
-git clone 
+git clone https://github.com/Priyankk18k/parking_simulation
 ```
 2 - cd to your folder where you have cloned the code. For example suppose you have cloned it in document/priyank
 ```
