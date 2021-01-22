@@ -18,7 +18,7 @@ NOTE :- In the code I have not used any external libraries so ```requirements.tx
 
 4 - Run the Code with the command
 ```
-python parking_functions.py --in <your input file name with .txt extension>
+python parking_main.py --in <your input file name with .txt extension>
 ```
 
 
