@@ -24,6 +24,11 @@ python parking_main.py --in <your input file name with .txt extension>
 Example :- ```python parking_main.py --in input.txt```
 
 
+5 - To Run the Test Cases you have to write
+```
+python Test_cases.py
+```
+
 
 # Edge Cases Covered
 1 - If length of car is less than (<) or Greater than (>) function will Return and Print the Appropriate message. 
